@@ -3,7 +3,7 @@
 -- =======================================
 
 -- CONFIGURATION
-set totalPresets to 5             -- number of presets you want to audition
+set totalPresets to 128           -- number of presets you want to audition
 set loopBars to 8                 -- loop length in bars
 set timeSignature to "4/4"        -- full time signature (e.g., "4/4", "6/8")
 set BPM to 138                    -- beats per minute
