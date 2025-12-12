@@ -3,11 +3,11 @@
 to download the applescript
 
 ```
-curl -L -o myScript.applescript https://raw.githubusercontent.com/username/repo/main/myScript.applescript
+curl -L -o myScript.applescript https://raw.githubusercontent.com/username/ropeamine/sylenth1auditioner/main/ropeamine/sylenth1auditioner.applescript
 ```
 
 Make modifications to Preset Count, Time-Signature, BPM, and Loop length, then run:
 ```
-osascript myScript.applescript
+osascript sylenth1auditioner.applescript
 ```
 
