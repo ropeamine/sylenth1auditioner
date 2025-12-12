@@ -11,3 +11,7 @@ Make modifications to Preset Count, Time-Signature, BPM, and Loop length, then r
 osascript sylenth1auditioner.applescript
 ```
 
+Alternatively to use the defaults of 138BPM, 4/4, an 8-Bar loop and 128 Presets, you can run the script like this:
+```
+curl -s https://raw.githubusercontent.com/username/repo/main/myScript.applescript | osascript
+```
