@@ -2,6 +2,8 @@
 
 A simple applescript to audition sylenth1 presets, brings logic pro into focus, and with a pre-loaded sylenth1 plugin instrument loaded on the track in focus will cycle right through the presets and play them for a duration you set based on loop length, BPM, and time-signature.
 
+
+Usage:
 Download sylenth1auditioner.applescript
 
 ```
