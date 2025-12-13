@@ -4,6 +4,7 @@ A simple applescript to audition sylenth1 presets, brings logic pro into focus, 
 
 
 Usage:
+
 Download sylenth1auditioner.applescript
 
 ```
